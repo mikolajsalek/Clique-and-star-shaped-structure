@@ -32,8 +32,8 @@ void odczyt1(vector<char> sekwencje[], vector<int> wiar[], vector<string> nazwy[
     string temp = "";
 
 
-    ifstream fasta("instancja3.fasta");
-    ifstream qual("instancja3.qual");
+    ifstream fasta("instancja1.fasta");
+    ifstream qual("instancja2.qual");
 
     int m, n=0;
     char c;
